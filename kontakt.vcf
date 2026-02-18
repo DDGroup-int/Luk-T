@@ -2,7 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Ing. arch. Lukáš Tůma
 N:Tůma;Lukáš;;Ing. arch.;
-ORG:D+D Group a.s.
+ORG:D+D Group
+TITLE:Head of Project
 TEL:+42073435661
 EMAIL:lukas.tuma@ddgroup.cz
 END:VCARD
